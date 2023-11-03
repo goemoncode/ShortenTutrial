@@ -1,0 +1,2 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
+quest_BasicSurvival1,Quest,Quest Info,,,Basic Survival 1/1,,Das 1x1 des Überlebens 1/1,Supervivencia básica 1/1,Les bases de la survie 1/1,Basi della sopravvivenza 1/1,生き残るための基礎知識 1/1,기본 생존 1/1,Podstawy przetrwania 1/1,Sobrevivência Básica 1/1,Основы выживания 1/1,Temel Hayatta Kalma 1/1,基础生存 1/1,基本生存 1/1

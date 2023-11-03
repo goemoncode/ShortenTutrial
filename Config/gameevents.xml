@@ -1,0 +1,4 @@
+<patch>
+  <remove xpath="/gameevents/action_sequence[@name='game_first_spawn']/action[@class='Delay']"/>
+  <remove xpath="/gameevents/action_sequence[@name='game_first_spawn']/action[@class='AddJournalTip']"/>
+</patch>
